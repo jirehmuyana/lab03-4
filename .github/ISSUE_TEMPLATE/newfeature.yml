@@ -1,6 +1,6 @@
-name: Feauture
+name: Feature
 description: File a new feature update
-title: "[Feauture: ]: "
+title: "[Feature: ]: "
 labels: ["enhancement ", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
